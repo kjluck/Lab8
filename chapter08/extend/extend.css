@@ -1,0 +1,15 @@
+/*
+Author: Kenneth Luck
+Date:April 23, 2022
+File Name: .css Chapter 8
+*/
+
+/* CSS Reset */
+
+table, th, td {
+  body-background-color: #ffe5dc;
+  table-border-color: #792101;
+  box-shadow: #a22c02;
+  odd-rows-background-color: #fe9772;
+  font-style: sans-serof;
+}
