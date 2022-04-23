@@ -1,7 +1,7 @@
 /*
-Author:
-Date:
-File Name: 
+Author: Kenneth Luck
+Date: April 23, 2022
+File Name: style08.css
 */
 
 /* Style for body specifies a background color */
@@ -16,17 +16,64 @@ body {
 	margin: 0 auto;
 }
 
+fieldset{
+	font-size: 1.25em;
+	right: bold;
+}
 /* Style rules for form elements */
+fieldset {
+	margin-bottom: 2%;
+}
 
+button {
+	margin-top: 0%;
+	margin-bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding: 5%;
+	background-color: #003399;
+	font-size: 1.25em;
+	border-radius: 10px;
+	color: #fff;
+}
 
+form {
+	width: 80%;
+	top-margin: 0:
+	bottom-margin: 0;
+	left-margin: 0;
+	right-margin: 0;
+}
+
+grid-class {
+	width: 80%;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+#grid-class {
+	display: grid;
+	columns: auto;
+	grid-gap: 20px;
+}
+
+button {
+	columns: 1;
+	span: 2;
+	padding: 3%
+}
+
+}
+<
 /* Style for the footer element */
 footer {
 	font-size: .9em;
 	text-align: center;
 }
 
-/* Media query for tablet layout */ 
+/* Media query for tablet layout */
 @media only screen and (min-width: 600px) {
 
-    
+
 }

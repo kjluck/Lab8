@@ -6,6 +6,7 @@ File Name: .css Chapter 8
 
 /* CSS Reset */
 
+/* Style rule for table  */
 table, th, td {
   body-background-color: #ffe5dc;
   table-border-color: #792101;
